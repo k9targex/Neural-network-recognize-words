@@ -21,8 +21,21 @@
   - 784-512-256-128-64-26
   - 784-512-64-26
   - 784-128-26
+<p align="center">
+  <img src="Main.png" alt="Preview" width="300"style="border-radius: 20px; overflow: hidden;">
+</p>
 
 - После загрузки весов есть два выбора:
   - Загрузить файл с рукописными словами
   - Написать несколько слов в предоставленном окне
+  <p align="center">
+    <img src="ReadWeight.png" alt="Preview" width="350"style="border-radius: 20px; overflow: hidden;">
+  </p>
+
+  <p align="center">
+    <img src="Paint.png" alt="Preview" width="600"style="border-radius: 20px; overflow: hidden;">
+  </p>
 - После загрузки слов любым из предоставленных способах программа сразу выдаст результат.
+  <p align="center">
+  <img src="Result.png" alt="Preview" width="300"style="border-radius: 20px; overflow: hidden;">
+  </p>
